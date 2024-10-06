@@ -1,0 +1,1 @@
+svg path,svg rect{fill:#000}.animated{opacity:0;-webkit-animation:fadeIn .6s forwards;animation:fadeIn .6s forwards}@-webkit-keyframes fadeIn{0%{opacity:0}to{opacity:1}}@keyframes fadeIn{0%{opacity:0}to{opacity:1}}
